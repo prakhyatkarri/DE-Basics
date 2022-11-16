@@ -98,3 +98,42 @@
 - Window
 - Rank
 - With (CTE)
+
+# Load
+
+## Storage
+- Local Disk
+- AWS S3
+- Azure ADLS
+- GCP Cloud Storage
+- HDFS
+
+## Database
+- PostgreSQL
+- MySQL
+- Mongo
+- Kafka
+- SQL Server
+- Oracle
+- RDS
+- Cosmos
+- Cassandra
+- Yugabyte
+- Redis
+- Hive
+- HBase
+- Neo4j
+- Amazon Neptune
+- DynamoDB
+- BigTable
+- CouchDB
+- CockroachDB
+- ElastiSearch
+- MariaDB
+- Aurora
+
+## Datawarehouse
+- Snowflake
+- Redshift
+- BigQuery
+- Synapse
