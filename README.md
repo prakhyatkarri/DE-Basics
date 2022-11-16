@@ -58,3 +58,43 @@
 - BigQuery
 - Synapse
 
+# Transformations
+
+## Data Modeling
+- Schema modeling 
+- Star Schema 
+- Snowflake Schema 
+- Facts
+- Dimensions
+- Slowly chaning dimension (SCD) Type 1
+- Slowly chaning dimension (SCD) Type 2
+- Slowly chaning dimension (SCD) Type 3
+
+## Processing
+- Spark
+- Spark Streaming
+- Stream analytics
+- Kinesis Data analytics
+- Kinesis firehose
+- Flink
+- Pandas
+- AWS Lambda
+- Azure Function app
+- Cloud Functions
+- Databricks
+- Airflow
+- Azure Data Factory
+- AWS Glue
+- Glue Catalog
+- Dbt
+
+## SQL
+- CRUD
+- Joins
+- Sum
+- Count
+- Group by
+- Having by
+- Window
+- Rank
+- With (CTE)
