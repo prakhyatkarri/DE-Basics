@@ -7,9 +7,11 @@
 - Visualization (charts, maps, dashboards)
 - Storage (Blobs, Data lakes)
 
-# Sources
+# Extract
+  
+ <details>
+  <summary>Formats</summary>
 
-## Formats
 - Json
 - CSV
 - Text
@@ -20,15 +22,19 @@
 - Gzip
 - Tar
 - XML
-
-## Storage
+</details>
+  
+<details>
+  <summary>Storage</summary>
 - Local Disk
 - AWS S3
 - Azure ADLS
 - GCP Cloud Storage
 - HDFS
+</details>
 
-## Database
+<details>
+  <summary>Database</summary>
 - PostgreSQL
 - MySQL
 - Mongo
@@ -51,16 +57,20 @@
 - ElastiSearch
 - MariaDB
 - Aurora
+</details>
 
-## Datawarehouse
+<details>
+  <summary>Datawarehouse</summary>
 - Snowflake
 - Redshift
 - BigQuery
 - Synapse
-
+</details>
+  
 # Transformations
 
-## Data Modeling
+<details>
+  <summary>Data Modeling</summary>
 - Schema modeling 
 - Star Schema 
 - Snowflake Schema 
@@ -69,8 +79,10 @@
 - Slowly chaning dimension (SCD) Type 1
 - Slowly chaning dimension (SCD) Type 2
 - Slowly chaning dimension (SCD) Type 3
-
-## Processing
+  </details>
+  
+<details>
+  <summary>Processing</summary>
 - Spark
 - Spark Streaming
 - Stream analytics
@@ -87,8 +99,10 @@
 - AWS Glue
 - Glue Catalog
 - Dbt
-
-## SQL
+  </details>
+  
+<details>
+  <summary>Formats</summary>
 - CRUD
 - Joins
 - Sum
@@ -98,17 +112,21 @@
 - Window
 - Rank
 - With (CTE)
-
+</details>
+  
 # Load
 
-## Storage
+<details>
+  <summary>Storage</summary>
 - Local Disk
 - AWS S3
 - Azure ADLS
 - GCP Cloud Storage
 - HDFS
-
-## Database
+</details>
+  
+<details>
+  <summary>Database</summary>
 - PostgreSQL
 - MySQL
 - Mongo
@@ -131,9 +149,30 @@
 - ElastiSearch
 - MariaDB
 - Aurora
+</details>
 
-## Datawarehouse
+<details>
+  <summary>Datawarehouse</summary>
 - Snowflake
 - Redshift
 - BigQuery
 - Synapse
+</details>
+  
+# Visualization
+<details>
+  <summary>Analysis</summary>
+- Power BI
+- AWS Quicksight
+- Athena
+- Presto
+- Tableau
+- Elastisearch
+- Kabana
+- Jupyter
+- Python Viz tools
+- Databricks Viz tools
+- Bokeh
+- Google Data studio
+- Looker
+</details>
