@@ -22,19 +22,23 @@
 - Gzip
 - Tar
 - XML
+  
 </details>
   
 <details>
   <summary>Storage</summary>
+  
 - Local Disk
 - AWS S3
 - Azure ADLS
 - GCP Cloud Storage
 - HDFS
+  
 </details>
 
 <details>
   <summary>Database</summary>
+  
 - PostgreSQL
 - MySQL
 - Mongo
@@ -57,20 +61,24 @@
 - ElastiSearch
 - MariaDB
 - Aurora
+  
 </details>
 
 <details>
   <summary>Datawarehouse</summary>
+  
 - Snowflake
 - Redshift
 - BigQuery
 - Synapse
+  
 </details>
   
 # Transformations
 
 <details>
   <summary>Data Modeling</summary>
+  
 - Schema modeling 
 - Star Schema 
 - Snowflake Schema 
@@ -79,10 +87,12 @@
 - Slowly chaning dimension (SCD) Type 1
 - Slowly chaning dimension (SCD) Type 2
 - Slowly chaning dimension (SCD) Type 3
-  </details>
+  
+</details>
   
 <details>
   <summary>Processing</summary>
+  
 - Spark
 - Spark Streaming
 - Stream analytics
@@ -99,10 +109,12 @@
 - AWS Glue
 - Glue Catalog
 - Dbt
-  </details>
+  
+</details>
   
 <details>
   <summary>Formats</summary>
+  
 - CRUD
 - Joins
 - Sum
@@ -112,21 +124,25 @@
 - Window
 - Rank
 - With (CTE)
+  
 </details>
   
 # Load
 
 <details>
   <summary>Storage</summary>
+  
 - Local Disk
 - AWS S3
 - Azure ADLS
 - GCP Cloud Storage
 - HDFS
+  
 </details>
   
 <details>
   <summary>Database</summary>
+  
 - PostgreSQL
 - MySQL
 - Mongo
@@ -149,19 +165,24 @@
 - ElastiSearch
 - MariaDB
 - Aurora
+  
 </details>
 
 <details>
   <summary>Datawarehouse</summary>
+  
 - Snowflake
 - Redshift
 - BigQuery
 - Synapse
+  
 </details>
   
 # Visualization
+
 <details>
   <summary>Analysis</summary>
+  
 - Power BI
 - AWS Quicksight
 - Athena
@@ -175,4 +196,5 @@
 - Bokeh
 - Google Data studio
 - Looker
+  
 </details>
