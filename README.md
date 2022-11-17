@@ -32,6 +32,7 @@
 - AWS S3 
   - [Read file from S3 using Python](https://github.com/prakhyatkarri/read-s3-python/blob/main/read-files-from-s3.ipynb)
 - Azure ADLS
+  - [Read Azure ML Open Dataset using Python](https://github.com/prakhyatkarri/read-azure-adls-python/blob/main/read-files-from-adls-python.ipynb)
 - GCP Cloud Storage
 - HDFS
   
