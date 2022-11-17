@@ -29,7 +29,8 @@
   <summary>Storage</summary>
   
 - Local Disk
-- AWS S3
+- AWS S3 
+  - [Read file from S3 using Python](https://github.com/prakhyatkarri/read-s3-python/blob/main/read-files-from-s3.ipynb)
 - Azure ADLS
 - GCP Cloud Storage
 - HDFS
