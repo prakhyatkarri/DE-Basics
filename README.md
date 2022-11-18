@@ -34,6 +34,7 @@
 - Azure ADLS
   - [Read Azure ML Open Dataset using Python](https://github.com/prakhyatkarri/read-azure-adls-python/blob/main/read-files-from-adls-python.ipynb)
 - GCP Cloud Storage
+  - [Download file from Google Cloud Storage and read contents using Python](https://github.com/prakhyatkarri/read-gcp-storage-python/blob/main/read-file-from-gcp-storage.ipynb)
 - HDFS
   
 </details>
