@@ -29,6 +29,7 @@
   <summary>Storage</summary>
   
 - Local Disk
+  - [Read file contents from localdisk](https://github.com/prakhyatkarri/read-file-localdisk-python/blob/main/read-file-from-localdisk.ipynb)
 - AWS S3 
   - [Read file from S3 using Python](https://github.com/prakhyatkarri/read-s3-python/blob/main/read-files-from-s3.ipynb)
 - Azure ADLS
