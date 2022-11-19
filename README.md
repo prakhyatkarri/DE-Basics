@@ -48,6 +48,7 @@
 - MySQL
   - [CRUD Operations on MySQL using Python](https://github.com/prakhyatkarri/mysql-python/blob/main/crud-on-mysql-with-python.ipynb)
 - Mongo
+  - [CRUD Operations on Mongo using Python](https://github.com/prakhyatkarri/mongo-python/blob/main/crud-on-mongo-with-python.ipynb)
 - Kafka
 - SQL Server
 - Oracle
@@ -154,6 +155,7 @@
 - MySQL
   - [CRUD Operations on MySQL using Python](https://github.com/prakhyatkarri/mysql-python/blob/main/crud-on-mysql-with-python.ipynb)
 - Mongo
+  - [CRUD Operations on Mongo using Python](https://github.com/prakhyatkarri/mongo-python/blob/main/crud-on-mongo-with-python.ipynb)
 - Kafka
 - SQL Server
 - Oracle
