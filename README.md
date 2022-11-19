@@ -44,7 +44,9 @@
   <summary>Database</summary>
   
 - PostgreSQL
+  - [CRUD Operations on Postgres using Python](https://github.com/prakhyatkarri/postgres-python/blob/main/crud-on-postgres-with-python.ipynb)
 - MySQL
+  - [CRUD Operations on MySQL using Python](https://github.com/prakhyatkarri/mysql-python/blob/main/crud-on-mysql-with-python.ipynb)
 - Mongo
 - Kafka
 - SQL Server
@@ -117,7 +119,7 @@
 </details>
   
 <details>
-  <summary>Formats</summary>
+  <summary>SQL</summary>
   
 - CRUD
 - Joins
@@ -148,7 +150,9 @@
   <summary>Database</summary>
   
 - PostgreSQL
+  - [CRUD Operations on Postgres using Python](https://github.com/prakhyatkarri/postgres-python/blob/main/crud-on-postgres-with-python.ipynb)
 - MySQL
+  - [CRUD Operations on MySQL using Python](https://github.com/prakhyatkarri/mysql-python/blob/main/crud-on-mysql-with-python.ipynb)
 - Mongo
 - Kafka
 - SQL Server
