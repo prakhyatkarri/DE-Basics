@@ -52,6 +52,7 @@
 - Kafka
   - [Produce and Consume messages to/from Kafka using Python](https://github.com/prakhyatkarri/kafka-python/blob/main/kafka-with-python.ipynb)
 - SQL Server
+  - [CRUD Operations on SQL Server using Python](https://github.com/prakhyatkarri/sql-server-python/blob/main/crud-on-sql-server-with-python.ipynb)
 - Oracle
 - RDS
 - Cosmos
@@ -160,6 +161,7 @@
 - Kafka
   - [Produce and Consume messages to/from Kafka using Python](https://github.com/prakhyatkarri/kafka-python/blob/main/kafka-with-python.ipynb)
 - SQL Server
+  - [CRUD Operations on SQL Server using Python](https://github.com/prakhyatkarri/sql-server-python/blob/main/crud-on-sql-server-with-python.ipynb)
 - Oracle
 - RDS
 - Cosmos
