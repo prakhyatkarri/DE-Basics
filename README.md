@@ -50,6 +50,7 @@
 - Mongo
   - [CRUD Operations on Mongo using Python](https://github.com/prakhyatkarri/mongo-python/blob/main/crud-on-mongo-with-python.ipynb)
 - Kafka
+  - [Produce and Consume messages to/from Kafka using Python](https://github.com/prakhyatkarri/kafka-python/blob/main/kafka-with-python.ipynb)
 - SQL Server
 - Oracle
 - RDS
@@ -157,6 +158,7 @@
 - Mongo
   - [CRUD Operations on Mongo using Python](https://github.com/prakhyatkarri/mongo-python/blob/main/crud-on-mongo-with-python.ipynb)
 - Kafka
+  - [Produce and Consume messages to/from Kafka using Python](https://github.com/prakhyatkarri/kafka-python/blob/main/kafka-with-python.ipynb)
 - SQL Server
 - Oracle
 - RDS
