@@ -59,6 +59,7 @@
 - Cassandra
 - Yugabyte
 - Redis
+  - [Set/Get Operations on Redis using Python](https://github.com/prakhyatkarri/redis-python/blob/main/set-get-on-redis-with-python.ipynb)
 - Hive
 - HBase
 - Neo4j
@@ -168,6 +169,7 @@
 - Cassandra
 - Yugabyte
 - Redis
+  - [Set/Get Operations on Redis using Python](https://github.com/prakhyatkarri/redis-python/blob/main/set-get-on-redis-with-python.ipynb)
 - Hive
 - HBase
 - Neo4j
