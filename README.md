@@ -90,6 +90,7 @@
   <summary>Data Modeling</summary>
   
 - Schema modeling 
+  - [Book a Taxi Data Model](https://github.com/prakhyatkarri/book-a-taxi-data-modeling/README.md)
 - Star Schema 
 - Snowflake Schema 
 - Facts
