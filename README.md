@@ -94,6 +94,7 @@
 - Star Schema 
   - [Orders Star Schema](https://github.com/prakhyatkarri/orders-star-schema)
 - Snowflake Schema 
+  - [Snowflake Schema](https://github.com/prakhyatkarri/orders-snowflake-schema)
 - Slowly Changing Dimensions
   - [Slowly Changing Dimensions](https://github.com/prakhyatkarri/slowly-changing-dimensions)
 </details>
