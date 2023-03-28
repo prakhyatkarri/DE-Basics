@@ -94,12 +94,8 @@
 - Star Schema 
   - [Orders Star Schema](https://github.com/prakhyatkarri/orders-star-schema)
 - Snowflake Schema 
-- Facts
-- Dimensions
-- Slowly chaning dimension (SCD) Type 1
-- Slowly chaning dimension (SCD) Type 2
-- Slowly chaning dimension (SCD) Type 3
-  
+- Slowly Changing Dimensions
+  - [Slowly Changing Dimensions](https://github.com/prakhyatkarri/slowly-changing-dimensions)
 </details>
   
 <details>
