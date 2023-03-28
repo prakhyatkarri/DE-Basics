@@ -92,6 +92,7 @@
 - Schema modeling 
   - [Book a Taxi Data Model](https://github.com/prakhyatkarri/book-a-taxi-data-modeling/README.md)
 - Star Schema 
+  - [Orders Star Schema](https://github.com/prakhyatkarri/orders-star-schema)
 - Snowflake Schema 
 - Facts
 - Dimensions
