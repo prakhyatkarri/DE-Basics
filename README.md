@@ -109,6 +109,7 @@
 - Kinesis firehose
 - Flink
 - Pandas
+  - [Pandas Basics](https://github.com/prakhyatkarri/pandas-basics)
 - AWS Lambda
 - Azure Function app
 - Cloud Functions
