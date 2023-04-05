@@ -126,7 +126,9 @@
   <summary>SQL</summary>
   
 - CRUD
+  - [SQL Basics - CRUD](https://github.com/prakhyatkarri/sql-basics/blob/main/01-crud.md)
 - Joins
+  - [SQL Basics - Joins](https://github.com/prakhyatkarri/sql-basics/blob/main/02-joins.md)
 - Sum
 - Count
 - Group by
